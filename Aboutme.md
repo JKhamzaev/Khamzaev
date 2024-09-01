@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khamzaev
+- 👋 Hi, I’m @JKhamzaev
 - 👀 I’m interested in machine-learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine-learning
